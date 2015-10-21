@@ -1,0 +1,27 @@
+{
+  "name": "googleplaces-node",
+  "version": "0.1.0",
+  "description": "No bullshit. Just a simple node framework for Google Places.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewcham/googleplaces-node.git"
+  },
+  "author": "Andrew Cham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrewcham/googleplaces-node/issues"
+  },
+  "homepage": "https://github.com/andrewcham/googleplaces-node#readme",
+  "devDependencies": {
+    "babel-core": "^5.8.25",
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  },
+  "dependencies": {
+    "babel": "^5.8.23"
+  }
+}
