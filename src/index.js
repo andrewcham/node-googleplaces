@@ -37,7 +37,7 @@ function processInput(apiKey, placesFunction, args) {
   } 
 }
 
-class GooglePlaces = {
+class GooglePlaces {
   constructor(apiKey) {
     this.apiKey = apiKey;
   }
@@ -59,11 +59,11 @@ class GooglePlaces = {
   }
 
   add(sendObj, cb) {
-    processInput(this.apiKey, placesLib.add, arguments);
+    processInput(this.apiKey, placesLib.addPlace, arguments);
   }
 
   delete(sendObj, cb) {
-    processInput(this.apiKey, placesLib.delete, arguments);
+    processInput(this.apiKey, placesLib.deletePlace, arguments);
   }
 
   photo(queryObj, cb) {

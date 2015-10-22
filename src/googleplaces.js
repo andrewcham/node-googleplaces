@@ -50,11 +50,11 @@ export function details(queryObj, cb) {
   getCall(DETAILS, queryObj, cb);
 }
 
-export function add(sendObj, cb) {
+export function addPlace(sendObj, cb) {
   postCall(ADD, sendObj, cb);
 }
 
-export function delete(sendObj, cb) {
+export function deletePlace(sendObj, cb) {
   postCall(DELETE, sendObj, cb);
 }
 
