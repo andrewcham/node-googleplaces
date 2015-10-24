@@ -4,7 +4,7 @@
   "description": "No bullshit. Just a simple, opinionated, node framework for Google Places.",
   "main": "lib/index.js",
   "scripts": {
-    "test": "mocha -R nyan",
+    "test": "mocha",
     "compile": "babel -d lib/ src/",
     "prepublish": "npm run compile"
   },
