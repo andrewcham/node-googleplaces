@@ -1,5 +1,5 @@
 # node-googleplaces
-An unassuming, minorly-opinionated node.js library for Google Places.
+User-friendly and lightweight client for the Google Places JSON API. Supports promises and callbacks.
 
 ## Features
 * All the web services calls from [this](https://developers.google.com/places/web-service/) wrapped up in an easy-to-use NPM.

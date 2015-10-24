@@ -1,7 +1,7 @@
 {
   "name": "node-googleplaces",
   "version": "0.1.1",
-  "description": "No bullshit. Just a simple, opinionated, node framework for Google Places.",
+  "description": "Node.js client for the Google Places API",
   "keywords": [
     "google",
     "places",
