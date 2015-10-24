@@ -1,9 +1,9 @@
 # node-googleplaces
-An unassuming, opinionated node.js wrapper for Google Places.
+An unassuming, minorly-opinionated node.js library for Google Places.
 
 ## Features
 * All the web services calls from [this](https://developers.google.com/places/web-service/) wrapped up in an easy-to-use NPM.
-* Callback _and_ promises supported.
+* Callbacks _and_ promises supported.
 
 ## Installation
 

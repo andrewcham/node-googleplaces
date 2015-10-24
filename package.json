@@ -2,6 +2,15 @@
   "name": "node-googleplaces",
   "version": "0.1.0",
   "description": "No bullshit. Just a simple, opinionated, node framework for Google Places.",
+  "keywords": [
+    "google",
+    "places",
+    "api",
+    "google places",
+    "google places api",
+    "google places library",
+    "google places promises"
+  ],
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha",
