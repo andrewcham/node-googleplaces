@@ -1,6 +1,6 @@
 {
   "name": "node-googleplaces",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "No bullshit. Just a simple, opinionated, node framework for Google Places.",
   "keywords": [
     "google",
